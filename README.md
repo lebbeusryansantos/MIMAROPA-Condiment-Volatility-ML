@@ -13,5 +13,5 @@ This repository contains the computational pipeline and data assets for analyzin
 * **Python Pipeline**: The execution architecture covering Phase 1 (Pre-processing) through Phase 4 (Statistical Verification).
 
 * ### Special Thanks to
-Philippine Statistics Authority for the Dataset
-Mr. Jefferson A. Costales, our Data Science 1 Teacher.
+**Philippine Statistics Authority** for the Dataset<br>
+**Mr. Jefferson A. Costales**, our Data Science 1 Teacher.
