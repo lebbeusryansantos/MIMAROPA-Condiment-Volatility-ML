@@ -12,6 +12,6 @@ This repository contains the computational pipeline and data assets for analyzin
 * **`CLEANED_Group1_Master_Dataset.csv`**: The sterile, unpivoted 1,131-record active production tensor.
 * **Python Pipeline**: The execution architecture covering Phase 1 (Pre-processing) through Phase 4 (Statistical Verification).
 
-* ### Special Thanks to
-**Philippine Statistics Authority** for the Dataset<br>
-**Mr. Jefferson A. Costales**, our Data Science 1 Teacher.
+### Special Thanks to
+* **Philippine Statistics Authority** for the Dataset<br>
+* **Mr. Jefferson A. Costales**, our Data Science 1 Teacher.
